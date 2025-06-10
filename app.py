@@ -47,4 +47,4 @@ def upload_file():
     return 'File uploaded successfully'
 
 if __name__ == '__main__':
-    app.run(debug=True)   https://github.com/niinora/devops7.git
+    app.run(debug=True)
